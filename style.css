@@ -10,7 +10,7 @@ header{
     color: white;
     text-align: center;
     padding: 20px;
-    background-image: url('images/pic1.jpg');
+    background-image: url('https://github.com/Rutu-ja22/minifoodwebsite/blob/main/pic1.jpg');
     background-repeat: no-repeat;
      background-attachment: fixed;
     background-size: cover;
@@ -146,4 +146,5 @@ form.example::after {
     color: black;
     text-align: center;
     padding: 20px;
+
  }
